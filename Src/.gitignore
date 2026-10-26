@@ -2,12 +2,10 @@
 Debug/
 Release/
 
-# STM32CubeIDE files
+# STM32CubeIDE user-specific settings
 .settings/
-.project
-.cproject
 
-# Generated files
+# Generated build files
 *.o
 *.d
 *.elf
