@@ -448,7 +448,7 @@ int main(void) {
  8000410:	b580      	push	{r7, lr}
  8000412:	af00      	add	r7, sp, #0
 
-	OSkernelIgnite();
+	OSkernelIgnite();  //OS will take control from here
  8000414:	f7ff ffa8 	bl	8000368 <OSkernelIgnite>
 
 	for (;;)
@@ -456,8 +456,10 @@ int main(void) {
  800041a:	e7fd      	b.n	8000418 <main+0x8>
 
 0800041c <thread1_function>:
-		;
-}
+
+
+
+
 
 void thread1_function(void) {
  800041c:	b480      	push	{r7}

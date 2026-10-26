@@ -12,11 +12,15 @@ ThreadCounter Thread1, Thread2, Thread3, Thread4;
 
 int main(void) {
 
-	OSkernelIgnite();
+	OSkernelIgnite();  //OS will take control from here
 
 	for (;;)
 		;
 }
+
+
+
+
 
 void thread1_function(void) {
 
