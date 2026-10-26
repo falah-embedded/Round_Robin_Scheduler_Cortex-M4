@@ -1,0 +1,8 @@
+../Src/RR_Scheduler.c:18:29:init_scheduler_stack	0	static,ignoring_inline_asm
+../Src/RR_Scheduler.c:26:6:init_thread_functions	4	static
+../Src/RR_Scheduler.c:37:6:init_threads_stack	24	static
+../Src/RR_Scheduler.c:64:10:get_current_psp	4	static
+../Src/RR_Scheduler.c:69:29:SP_TO_PSP	0	static,ignoring_inline_asm
+../Src/RR_Scheduler.c:80:6:save_psp_value	16	static
+../Src/RR_Scheduler.c:86:6:next_thread	4	static
+../Src/RR_Scheduler.c:93:6:OSkernelIgnite	8	static

@@ -1,0 +1,5 @@
+../Src/main.c:13:5:main	8	static
+../Src/main.c:21:6:thread1_function	16	static
+../Src/main.c:32:6:thread2_function	16	static
+../Src/main.c:43:6:thread3_function	16	static
+../Src/main.c:54:6:thread4_function	16	static

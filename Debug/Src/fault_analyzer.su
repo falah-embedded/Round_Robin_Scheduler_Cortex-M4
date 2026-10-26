@@ -1,0 +1,5 @@
+../Src/fault_analyzer.c:11:6:init_fault_analyzer	16	static
+../Src/fault_analyzer.c:20:6:HardFault_Handler	4	static
+../Src/fault_analyzer.c:24:6:MemManage_Handler	4	static
+../Src/fault_analyzer.c:28:6:BusFault_Handler	4	static
+../Src/fault_analyzer.c:32:6:UsageFault_Handler	4	static
