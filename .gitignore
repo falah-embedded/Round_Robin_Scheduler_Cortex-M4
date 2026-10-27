@@ -1,0 +1,62 @@
+Debug/
+Release/
+
+Eclipse workspace metadata (do not ignore project metadata)
+
+.metadata/
+
+User-specific IDE settings
+
+.settings/
+
+==========================================
+
+Compiler and linker outputs
+
+==========================================
+
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+*.su
+*.cyclo
+
+==========================================
+
+Debugger and temporary files
+
+==========================================
+
+*.launch
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+==========================================
+
+Operating system files
+
+==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+==========================================
+
+Keep essential STM32CubeIDE project files
+
+==========================================
+
+!.project
+!.cproject
+!.mxproject
